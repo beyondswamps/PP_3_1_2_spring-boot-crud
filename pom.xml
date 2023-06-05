@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.olega.spring-crud</groupId>
-	<artifactId>PP_2_3_1_spring-boot-crud</artifactId>
+	<artifactId>PP_3_1_2_spring-boot-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>PP_2_3_1_spring-boot-crud</name>
-	<description>PP_2_3_1_spring-boot-crud</description>
+	<name>PP_3_1_2_spring-boot-crud</name>
+	<description>PP_3_1_2_spring-boot-crud</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

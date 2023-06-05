@@ -1,4 +1,4 @@
-package net.olega.springcrud.PP_2_3_1_springbootcrud.model;
+package net.olega.springcrud.PP_3_1_2_springbootcrud.model;
 
 import org.springframework.stereotype.Component;
 

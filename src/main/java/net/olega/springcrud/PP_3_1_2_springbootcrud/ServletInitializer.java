@@ -1,4 +1,4 @@
-package net.olega.springcrud.PP_2_3_1_springbootcrud;
+package net.olega.springcrud.PP_3_1_2_springbootcrud;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(Pp231SpringBootCrudApplication.class);
+		return application.sources(Pp312SpringBootCrudApplication.class);
 	}
 
 }

@@ -1,13 +1,13 @@
-package net.olega.springcrud.PP_2_3_1_springbootcrud;
+package net.olega.springcrud.PP_3_1_2_springbootcrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Pp231SpringBootCrudApplication {
+public class Pp312SpringBootCrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Pp231SpringBootCrudApplication.class, args);
+		SpringApplication.run(Pp312SpringBootCrudApplication.class, args);
 	}
 
 }

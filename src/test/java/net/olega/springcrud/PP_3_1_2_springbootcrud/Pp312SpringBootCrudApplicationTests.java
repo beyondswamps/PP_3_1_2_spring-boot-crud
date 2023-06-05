@@ -1,10 +1,10 @@
-package net.olega.springcrud.PP_2_3_1_springbootcrud;
+package net.olega.springcrud.PP_3_1_2_springbootcrud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Pp231SpringBootCrudApplicationTests {
+class Pp312SpringBootCrudApplicationTests {
 
 	@Test
 	void contextLoads() {

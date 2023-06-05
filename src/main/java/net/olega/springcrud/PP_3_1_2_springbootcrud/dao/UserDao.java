@@ -1,7 +1,6 @@
-package net.olega.springcrud.PP_2_3_1_springbootcrud.dao;
+package net.olega.springcrud.PP_3_1_2_springbootcrud.dao;
 
-
-import net.olega.springcrud.PP_2_3_1_springbootcrud.model.User;
+import net.olega.springcrud.PP_3_1_2_springbootcrud.model.User;
 
 import java.util.List;
 

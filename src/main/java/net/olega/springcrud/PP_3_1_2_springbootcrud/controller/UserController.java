@@ -1,7 +1,7 @@
-package net.olega.springcrud.PP_2_3_1_springbootcrud.controller;
+package net.olega.springcrud.PP_3_1_2_springbootcrud.controller;
 
-import net.olega.springcrud.PP_2_3_1_springbootcrud.model.User;
-import net.olega.springcrud.PP_2_3_1_springbootcrud.service.UserService;
+import net.olega.springcrud.PP_3_1_2_springbootcrud.model.User;
+import net.olega.springcrud.PP_3_1_2_springbootcrud.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
